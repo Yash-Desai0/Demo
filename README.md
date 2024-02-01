@@ -1,4 +1,4 @@
 # Demo
 This is my demo repository.
 <br>
-Author - Yash Desai(change)
+Author - Yash Desai
